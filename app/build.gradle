@@ -1,3 +1,13 @@
+/*
+ * Copyright (c) 2017.
+ *  This project is created by:
+ *  Naveed Ahmad
+ *  Senior Mobile Developer
+ *  Contact: +92345 964 7789
+ *  Email: sr.naveed99@gmail.com
+ *  LinkedIn: https://linkedin.com/in/naveed99
+ */
+
 apply plugin: 'com.android.application'
 
 android {
